@@ -1,5 +1,3 @@
-# Travel-Scope-Cambios
-
 PAGINA DESTINOS
 
 1-Generar un form para la carga de datos de nuevos destinos en main-destinos-bo.js (ver function altaDatosDestino())
